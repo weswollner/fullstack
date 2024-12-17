@@ -1,1 +1,1 @@
-GIT Repo for fullstack course.
+GIT Repo for fullstack course
